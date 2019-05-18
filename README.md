@@ -1,3 +1,5 @@
+![React Calculator](https://i.ibb.co/gg13qW3/image.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
